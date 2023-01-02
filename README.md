@@ -1,6 +1,7 @@
 # IMWMF: A class project of 2102676 (Digital Image Processing - 2021/2) at Department of Electrical Engineering Chulalongkorn University Bangkok, Thailand
 
-Abstract
+Abstract:
+
 This project is mainly studied the Iterative Mean Filter (IMF) algorithm in [1] and proposed an improved version
 by adopting the weighted mean idea that exploits the Minkowski distance from the center pixel (p=0.125) as
 the weighted window with a size of 3 × 3. The proposed filter still uses the constrained mean of the intensity
