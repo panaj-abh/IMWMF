@@ -1,5 +1,4 @@
-# IMWMF: A class project of 2102676 (Digital Image Processing - 2021/2)
-at Department of Electrical Engineering Chulalongkorn University Bangkok, Thailand
+# IMWMF: A class project of 2102676 (Digital Image Processing - 2021/2) at Department of Electrical Engineering Chulalongkorn University Bangkok, Thailand
 
 Abstract
 This project is mainly studied the Iterative Mean Filter (IMF) algorithm in [1] and proposed an improved version
